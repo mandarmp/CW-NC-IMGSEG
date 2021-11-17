@@ -1,1 +1,1 @@
-# NeuralComputationCourseWork
+# NC-CW

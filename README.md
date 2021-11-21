@@ -15,3 +15,6 @@ different device problem solved,
 printing info partially in tqdm and pbar style.
 
 got new dice loss implementation but need to incorporate.
+
+plotting of losses vs step ..shows there is oscillations between loss values ...probable reason to be found out.
+![image](https://user-images.githubusercontent.com/33731455/142747032-e15a42d6-4000-446b-9d74-a89e9408da7e.png)
